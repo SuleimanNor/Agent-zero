@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Agent Zero",
+  "description": "A production-grade React AI Agent interface powered by Gemini 3 Pro. It features real-time web grounding (replacing Tavily), streaming responses, and a modular 'agentic' UI that mimics a Python development environment.",
+  "requestFramePermissions": []
+}
